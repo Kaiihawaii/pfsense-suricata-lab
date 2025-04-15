@@ -37,10 +37,11 @@ Ziel war es, Angriffe wie Portscans oder DoS frühzeitig zu erkennen und aktiv z
 
 ## 📎 Struktur des Repos
 
-- `/configs` – Beispielkonfigs pfSense / Suricata  
-- `/screenshots` – GUI & Alerts  
-- `/tests` – Protokolle & Ergebnisse  
-- `/docs` – Projektdoku (PDF)
+Projektdoku im Anhang (Docx)
+-Beispielkonfigs pfSense / Suricata  
+-GUI & Alerts  
+-Ergebnisse  
+ 
 
 ## ✅ Status
 
