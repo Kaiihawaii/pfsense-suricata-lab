@@ -51,4 +51,4 @@ Abgeschlossen. Ideal für Fortsetzung im Bereich Netzwerksicherheit, z. B. mit
 
 **Autor:** Kai Kauffmann  
 📫 Kontakt: linkedin.com/in/kai-kauffmann 
-📁 [Hier geht’s zur vollständigen Dokumentation als PDF](./docs/Projektdokumentation.pdf)
+📁 [Hier geht’s zur vollständigen Dokumentation](./docs/Projektdokumentation.docx)
