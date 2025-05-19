@@ -50,5 +50,5 @@ Abgeschlossen. Ideal für Fortsetzung im Bereich Netzwerksicherheit, z. B. mit
 ---
 
 **Autor:** Kai Kauffmann  
-📫 Kontakt: linkedin.com/in/kai-kauffmann 
+📫 Kontakt:  [linkedin Kai Kauffmann](https://linkedin.com/in/kai-kauffmann)
 📁 [Hier geht’s zur vollständigen Dokumentation](https://github.com/Kaiihawaii/pfsense-suricata-lab/tree/main/docs)
